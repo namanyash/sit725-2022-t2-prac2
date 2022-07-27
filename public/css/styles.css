@@ -1,0 +1,15 @@
+.main-box{
+    position: fixed;
+    height: 100px;
+    width: 300px;
+    top: calc(50% - 50px);
+    left: calc(50% - 150px);
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 5px;
+}
+.main-box button{
+    display: block;
+    position: absolute;
+    left: auto;
+}
